@@ -1,3 +1,4 @@
 Prueba final módulo 1
 
-Hice fork de los trabajos de dulcermzf/portafolio-y-cv y GabrielaRiosP/GabrielaRiosP.github.io
+Hice fork de los siguientes trabajos: dulcermzf/portafolio-y-cv  
+GabrielaRiosP/GabrielaRiosP.github.io
